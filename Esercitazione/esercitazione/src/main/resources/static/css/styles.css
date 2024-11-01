@@ -15,6 +15,12 @@ nav .nav-link.active {
     color: #f39c12 !important;
     font-weight: bold;
 }
+.nav-link:hover {
+    text-decoration: none;
+    font-size: 1.1em;
+    transform-origin: center;
+
+}
 main h2 {
     color: #36454f;
     border-bottom: 2px solid #f39c12;
